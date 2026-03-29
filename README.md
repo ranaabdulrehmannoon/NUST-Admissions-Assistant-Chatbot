@@ -1,4 +1,4 @@
-# NUST Admissions Assistant (Offline RAG Chatbot)
+# NUST Admissions Assistant (Offline Chatbot)
 
 Production-ready, fully local chatbot for NUST admissions queries.
 
