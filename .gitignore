@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Packaging and metadata
+*.egg-info/
+.dist-info/
+build/
+dist/
+
+# Logs and local runtime files
+*.log
+.streamlit/
+
+# RAG generated artifacts
+data/faqs.txt
+data/chunks.json
+data/faiss.index
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
